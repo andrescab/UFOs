@@ -23,7 +23,7 @@ table will not shows anything but the headers will be still there.
 
 
 
-## Summary: In a summary statement, describe one drawback of this new design and two recommendations for further development.
+## Summary
 
 One drawback of this new design with multiple criteria is figuring out how to know speed up the search process without doing many trials.
 A first recommendation for further development could be having a pop up box that displays the suggested options that should be in the data when the words are being written in the input box, which makes easier the searching process and avoid having an empty table.
